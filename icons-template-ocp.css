@@ -23,3 +23,9 @@
     display: block;
     float: left;
 }
+.icon-ibm {
+    content: url('https://assets.nvidiagrid.net/ngc/logos/ISV-OSS-Non-Nvidia-Publishing-IBM.png');
+    width: 80px;
+    display: block;
+    float: left;
+}
