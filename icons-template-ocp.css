@@ -29,3 +29,9 @@
     display: block;
     float: left;
 }
+.icon-mosquitto {
+    content: url('https://mosquitto.org/images/mosquitto-text-side-28.png');
+    width: 100px;
+    display: block;
+    float: left;
+}
